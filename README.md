@@ -121,7 +121,7 @@ http://localhost:8501
 
 
 ```markdown
-
+![App Screenshot](Screenshot 2026-07-15 125135.png)
 ```
 
 ---
