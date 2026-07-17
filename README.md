@@ -119,7 +119,7 @@ https://basic-chatbot-with-openai-dbaimopdsjczwa6lwbjqxg.streamlit.app/
 
 ## 📸 Application Preview
 
-![App Screenshot](Screenshot 2026-07-15 125135.png)
+![App Screenshot](./Screenshot%202026-07-15%20125135.png)
 ---
 
 ## 📦 Requirements
