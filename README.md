@@ -112,18 +112,14 @@ streamlit run app.py
 The application will be available at:
 
 ```
-http://localhost:8501
+https://basic-chatbot-with-openai-dbaimopdsjczwa6lwbjqxg.streamlit.app/
 ```
 
 ---
 
 ## 📸 Application Preview
 
-
-```markdown
 ![App Screenshot](Screenshot 2026-07-15 125135.png)
-```
-
 ---
 
 ## 📦 Requirements
